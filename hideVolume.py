@@ -4,7 +4,7 @@ import helpers
 import Atom from atom
 
 def analyze(file):
-	flag = True
+    flag = True
     atoms = {}
     offset = 0
 
